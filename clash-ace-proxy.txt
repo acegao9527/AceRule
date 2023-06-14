@@ -1,0 +1,19 @@
+payload:
+  - '+.nssurge.com'
+  - '+.wikipedia.org'
+  - '+.openai.com'
+  - '+.v2ex.com'
+  - '+.github.com'
+  - '+.google.com'
+  - '+.t.co'
+  - '+.wuji.me'
+  - '+.twitter.com'
+  - '+.telegra.ph'
+  - '+.youtube.com'
+  - '+.ahhhhfs.com'
+  - '+.pinterest.es'
+  - '+.hifini.com'
+  - '+.githubusercontent.com'
+  - '+.gstatic.com'
+
+

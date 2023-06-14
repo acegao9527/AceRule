@@ -15,5 +15,10 @@ payload:
   - '+.hifini.com'
   - '+.githubusercontent.com'
   - '+.gstatic.com'
+  - '+.jsdelivr.net'
+  - '+.wireguard.com'
+  - '+.twimg.com'
+  - '+.rsshub.app'
+  - '+.gstatic.com'
 
 

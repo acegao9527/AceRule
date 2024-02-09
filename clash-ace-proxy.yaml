@@ -6,6 +6,8 @@ payload:
   - '+.github.com'
   - '+.google.com'
   - '+.t.co'
+  - '+.t.me'
+  - '+.telegram.org'
   - '+.wuji.me'
   - '+.twitter.com'
   - '+.telegra.ph'
